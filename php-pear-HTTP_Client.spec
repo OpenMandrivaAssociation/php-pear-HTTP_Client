@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.1
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Easy way to perform multiple HTTP requests
 License:	PHP License
 Group:		Development/PHP
